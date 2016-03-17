@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: cv
 title: CV
 permalink: /cv/
 ---
 
-I am a guy
+I am just a boy who wants to make softwares
